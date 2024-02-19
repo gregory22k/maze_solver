@@ -33,13 +33,14 @@ class Window:
     def close(self):
         self.__running = False
 
-
+# class that represents a point with (x, y) coordinates
+# used for drawing lines between 2 points
 class Point:
     def __init__(self, x, y):
         self.x = x
         self.y = y
 
-
+# class that helps with drawing a line between 2 points
 class Line:
     def __init__(self, point1, point2):
         self.point1 = point1
