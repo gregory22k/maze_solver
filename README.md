@@ -4,7 +4,7 @@ This Maze Solver application is built with Python and Tkinter. It generates rand
 
 ![image](https://github.com/gregory22k/maze_solver/assets/88857864/fa4a5a68-fb25-4c08-8690-089a1a4bcb8e)
 
-<img width="400" alt="image" src="https://github.com/gregory22k/maze_solver/assets/88857864/63b86498-92de-48e7-8ecb-105b3708f696">
+![image](https://github.com/gregory22k/maze_solver/assets/88857864/9d372887-2903-4eb3-8561-fce599b59a19)
 
 
 ## Features
