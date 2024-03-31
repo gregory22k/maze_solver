@@ -2,6 +2,9 @@
 
 This Maze Solver application is built with Python and Tkinter. It generates random mazes and provides functionality to solve them using a recursive depth-first search algorithm. Below is a brief overview of the functionality and structure of the application:
 
+<img width="400" alt="image" src="https://github.com/gregory22k/maze_solver/assets/88857864/63b86498-92de-48e7-8ecb-105b3708f696">
+
+
 ## Features
 
 - **Random Maze Generation**: The application creates random mazes of varying sizes with entrance and exit points.
